@@ -6,7 +6,7 @@ const colors = [
     "#ff4c4c",
     "#ffcc00"
 ];
-const letters = "I LOVE YOU";
+const letters = "I LOVE YOU Adis";
 let letterIndex = 0;
 
 function getRandomLetter() {
